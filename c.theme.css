@@ -13,10 +13,12 @@
 @import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 @import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
 @import url('https://nyri4.github.io/Discolored/main.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+@import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
 
 :root {
-  --main-color: #2D2F35;
-  --hover-color: #1e63b3;
+  --main-color: #267FE7;
+  --hover-color: #1E63B3;
   --success-color: #43b581;
   --danger-color: #982929;
   --url-color: var(--main-color);
